@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+docs/
+
+# Environment variables
+.env
+.env.*
+
+# Docker
+.dockerignore
